@@ -1,6 +1,6 @@
 name: dynamic_url_image_cache
 description: A image provider that caches the image with an ID, useful for images with dynamic urls, like S3 images.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Gabanelli
 repository: https://github.com/Gabanelli/dynamic_url_image_cache
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  path_provider: ^1.5.1
+  path_provider: ^2.0.1
 
 dev_dependencies:
   flutter_test:
